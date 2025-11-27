@@ -1,0 +1,26 @@
+/* Global styles for FitSync */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #1a1a1a;
+  color: #ffffff;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: #ff6b35;
+}
+
+.active {
+  color: #ff6b35 !important;
+}
