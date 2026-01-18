@@ -47,6 +47,6 @@ src/
 
 ## Team
 
-- **Soumya Prasad Sahu** 
+- *Soumya Prasad Sahu*
 - *Isha Gulhane*
 - *Dipali Vasave*
