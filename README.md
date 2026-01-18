@@ -49,5 +49,4 @@ src/
 
 - **Soumya Prasad Sahu** 
 - **Isha Gulhane** 
-- **Dipali Vasave** 
-
+- *Dipali Vasave*
